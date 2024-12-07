@@ -1,5 +1,5 @@
 # A RESPONSIVE WEB PAGE
-This is my first responsive page. 🤓💫
+This is my first responsive web page. 🤓💫
 
 - [Demo Project](https://rahimitabarshiva.github.io/RESPONSIVE/)
 ![final view 1](https://github.com/user-attachments/assets/24677fa5-0a30-437b-8e9d-d7e8404961b8)
