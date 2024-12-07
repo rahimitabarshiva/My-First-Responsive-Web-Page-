@@ -1,5 +1,5 @@
-# RESPONSIVE
-My RWD.
+# RESPONSIVE WEB DESIGN
+This is my first responsive page. 🤓💫
 
 - [Demo Project](https://rahimitabarshiva.github.io/RESPONSIVE/)
 
