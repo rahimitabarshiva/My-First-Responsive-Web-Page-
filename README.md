@@ -1,4 +1,4 @@
-# RESPONSIVE WEB DESIGN
+# A RESPONSIVE WEB PAGE
 This is my first responsive page. 🤓💫
 
 - [Demo Project](https://rahimitabarshiva.github.io/RESPONSIVE/)
